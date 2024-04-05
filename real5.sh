@@ -6,3 +6,5 @@ git --version
 else
 echo "not installed"
 sudo yum installed git -y
+echo "git is installed"
+git --version
